@@ -1,1 +1,513 @@
-[{"id":"04b001f4-b8bd-41e6-9005-66bb5ceed497","nis":"14012","name":"DANENDRA DZIKRI ERGIE PUTRA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:30:01"},{"id":"099dc495-16df-46e0-9034-576b8966f31d","nis":"13949","name":"AMRETA ISTIGHFARI SYAMSUDDIN","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:23:34"},{"id":"0adc7cc3-dad6-49d1-be3d-016c8df806d9","nis":"14167","name":"MOHAMMAD DAVIN RAFI ILHAMI","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:13:00"},{"id":"0b529166-9512-4690-bdb5-6a61f0f3daab","nis":"14349","name":"ZAKIA SAFA AURELIA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:20:51"},{"id":"0ec7233b-463a-41a5-8b68-5bdeecff4a6e","nis":"14195","name":"NABILA ARDIS KINASIH","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:40:09"},{"id":"10ed65a6-d6bb-42d6-bfe8-19bf742e388a","nis":"14037","name":"ERINA OCTAVIA PUTRI","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:31:12"},{"id":"13a09242-96b0-467a-b32d-d8fe8a5294f0","nis":"14128","name":"LINDY AMIRA ALZAAHIRAH","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:35:26"},{"id":"158d8a9f-8f36-48c8-88ff-83d8972f15eb","nis":"14102","name":"JOANSA BINTANG FITRIANTO","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:34:44"},{"id":"15fbce73-141f-4453-a4f9-3f62ee61d90e","nis":"13990","name":"BENZAIR XAVIER ANDRIAN","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:27:50"},{"id":"16f6d368-0f70-45ea-9814-57f2c6b29bce","nis":"14324","name":"SYLVI HARLISTA RAHMAH","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:48:47"},{"id":"184cccff-9bcb-45d5-b7d1-cb1660b290c5","nis":"14076","name":"GREGORIUS CHERILBRIAN ARISSA PUTRA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:07:40"},{"id":"19bfdd3b-a206-4101-acc7-0decd7f5e1bf","nis":"14339","name":"WILDAN SATRIA AVARA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:51:05"},{"id":"2013957f-36bd-4185-b36c-3d5c7c4984f4","nis":"14198","name":"NADHIF MAULANA AHMAD RIZAQI","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:15:14"},{"id":"22b67fe8-b017-4193-a2f9-e9a4ed28355b","nis":"14003","name":"CAROLINE NATALIA PUTRI","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:00:30"},{"id":"2ee9b558-1a67-4448-a79d-d99f321bcdd4","nis":"13931","name":"AISHA KAYLA JASMINE","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-11 07:26:56"},{"id":"32408f9a-9c11-47da-9218-9db4aebc414c","nis":"14335","name":"VIOLLA MARISCHA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:50:32"},{"id":"38c87c11-54bf-45a3-9ca7-00adae6a1231","nis":"14029","name":"DIVA NAIRA MAHARANI","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:04:01"},{"id":"39247b83-9f17-4f7f-82c9-55e075c1fc23","nis":"13968","name":"ARYA PRAMUDYA CHANDRA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:26:59"},{"id":"3a76f468-b66b-40de-bdd4-03a0407e087e","nis":"14043","name":"FACHRIEL FURQON PUTRA BUDI","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:05:17"},{"id":"3c790ff7-a30a-419c-a88d-8b30d93709a8","nis":"14046","name":"FAITH AALIYAH SANDY","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:32:39"},{"id":"4105a570-b581-40b8-94ad-30e4e18f7b23","nis":"13977","name":"AYRA AYU PUTRI PAMBAYUN","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-19 23:57:29"},{"id":"4106af10-2417-4a9d-8bde-16e6b6e64c50","nis":"14281","name":"REGINA ZAKIA KAMILA WANSAN","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:47:03"},{"id":"49d6ad61-abd7-4063-9801-3580f98b012a","nis":"14296","name":"RIZCO EMERALDY IRWAN SAPUTRA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:47:55"},{"id":"4c9aff47-2b59-439b-8ddd-07cd07765749","nis":"14038","name":"ERLANGGA DHARMA YUDHA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:04:35"},{"id":"4f4e445f-3618-4624-b1ed-aada4b751980","nis":"14039","name":"EVAN ADIYASA BUDIANTO","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:31:53"},{"id":"54400241-0fd7-4d38-8406-891a31ead600","nis":"14023","name":"DEWA GEDE ANDIKA PRATAMA PUTRA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:02:40"},{"id":"5935f384-b5aa-4340-b3fe-aab62817dc20","nis":"14311","name":"SEPTYASSA DWI RAMADHANI","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:19:41"},{"id":"5fb6ee18-b261-4351-9ce9-a01e167feca3","nis":"14067","name":"GABRIEL ROSARI PUTRANARENDRA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:06:45"},{"id":"6b435bd3-c230-4110-b79c-6970d714fe26","nis":"14064","name":"FRANCISCA DWI PUTRI HAPSARI","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:05:53"},{"id":"6e55daac-4e63-4b08-8fea-5972c5a2ac22","nis":"14019","name":"DEREZKY PEDRO SAPULETE","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:01:24"},{"id":"6eed2877-42c9-4ca9-94c8-cf383132fda1","nis":"14234","name":"NYOMAN EMILY ORCHID WIBAWA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:17:31"},{"id":"6ff9df30-0f03-46cf-a117-593920cd8506","nis":"14202","name":"NAJWA MAULIDA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:15:50"},{"id":"71af52b3-86d0-4d0e-92c8-a41d0612c683","nis":"14263","name":"RAHMA OCTALISA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:44:39"},{"id":"71b1b99b-80a2-43be-b214-a1118fb850df","nis":"14022","name":"DEWA ABIMANYU","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:02:05"},{"id":"743c46c2-d370-484c-9e17-1edea4c3e1ef","nis":"14088","name":"I NYOMAN ARTHA DHARMAYASA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:08:15"},{"id":"744affb9-eeab-4e6a-8a58-cb5714aa2193","nis":"14328","name":"TISYA AFLI AMANDA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:20:17"},{"id":"761d8d85-9435-49bd-8c27-62f5d269e7dc","nis":"13993","name":"BIEMA ZACTY WIBI ANDRA WISNU","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-19 23:59:55"},{"id":"770413ff-7bff-4672-b3bc-3a2b0ca9e0e7","nis":"14139","name":"MUKHAMMAD WIFAK NAZWAN MAULANA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:14:20"},{"id":"8013d73d-c23a-4818-9c69-b73690ca9a79","nis":"13983","name":"AZZAHRA ANASTASYA FITRIANI","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-19 23:58:39"},{"id":"86b2febb-30fd-43b0-ad10-a3cfb942603a","nis":"13963","name":"ARFA DWI OKTA PRADANA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:26:16"},{"id":"898491d5-83c9-42e4-952f-762cf44c30eb","nis":"14089","name":"I PUTU EGA RADIARTANA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:08:51"},{"id":"8b7aebc7-7dda-41ce-ba27-4fc2b5d6e052","nis":"13915","name":"ABDULLAH","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:21:54"},{"id":"99d841f7-6505-46d9-9a28-e6212647d827","nis":"14011","name":"DANADYAKSA DZAKY NUR FAHIM","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:29:23"},{"id":"9c29ab4f-4e35-47b2-a985-9380e71cd91f","nis":"14024","name":"DEWI ABINAYA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:03:20"},{"id":"9c44003b-96ca-44e5-ac46-fe8af82ed597","nis":"14275","name":"RAPHAEL BINTANG ADI NUGROHO","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:18:09"},{"id":"9c6dfc58-8137-4ede-ab77-2f6c03e9cd0d","nis":"14222","name":"NI WAYAN SUKANIA WANDYA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:17:05"},{"id":"9e080bbc-49a5-4de3-a9b3-e281172ab8ce","nis":"14065","name":"FRAYA EMILLY KUSUCAHYO","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:33:16"},{"id":"9f84ed0b-4e6c-4989-9e91-d7380c38a96e","nis":"14276","name":"RASIKH ARIEFRAKHMAN ABIEZA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:46:07"},{"id":"a04aef0c-122f-4c4d-b994-40267dc84cc9","nis":"14215","name":"NAZMA ATHIQA FUADAH","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:41:29"},{"id":"a2274dd3-08fc-4b2d-ac5f-051de2e8188a","nis":"14254","name":"RAFA KAYSAN PRAWIRA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:43:26"},{"id":"af02b3a1-4e1d-4cd6-96ed-17cd7dfcf2a3","nis":"14334","name":"VIOLETA ALYA RIZKA EFFENDI","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:49:24"},{"id":"b13872c4-662d-4d12-99db-84d52454097e","nis":"14183","name":"M. GILANG CAHAYA RABBANI","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:36:04"},{"id":"b9d998c8-9a17-469f-b9ef-89ee2578cbbd","nis":"13997","name":"BINTANG RAMADHAN WIBISONO","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:28:32"},{"id":"ba035660-c0ae-452b-8f61-bf0b4b30a818","nis":"14213","name":"NAYLA ATHA SYIFA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:16:17"},{"id":"bd6d193d-90d6-4e6a-9720-737402329060","nis":"14163","name":"MOCHAMMAD SCAESAR BAGASKARA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:12:07"},{"id":"bd7174d1-887d-4850-8ced-7875bc01b6cc","nis":"13954","name":"ANNISA HANIFATUT DINILAH","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-19 23:53:48"},{"id":"be81628e-28ec-4ece-ad99-73d6626cd3e0","nis":"14240","name":"PRINCESS AMALIAH BESTGIFT","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:42:05"},{"id":"beee475d-1456-49c1-9d91-3984afae7de8","nis":"14170","name":"MUHAMMAD AKBAR FAROZIE","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:36:48"},{"id":"bf1348eb-351d-4322-9602-bc0ec46f9399","nis":"14252","name":"RAFA ATHAYA AKHMAD","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:42:54"},{"id":"c0c2f88a-5d19-437a-83df-de358c6399ee","nis":"14274","name":"RANSI IKRAM ACHMAD","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:45:15"},{"id":"c90a292a-8d93-4a04-a05b-028844fa73f6","nis":"13956","name":"AQILA AMBARIN ZAHRA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:24:10"},{"id":"ca63db6f-ff01-4450-952f-7307e0fb93af","nis":"13917","name":"ACINTYA BAITAH DIAN LAGHAWA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:22:43"},{"id":"d430d4a0-89f2-4800-9bdf-26e1da49db27","nis":"14100","name":"JIBRAN ABIMANYU","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:09:21"},{"id":"d4329d07-29d1-4c3a-aa73-ab3da97814e6","nis":"14210","name":"NAURA NATHANIA MOYNA PUTRI HARTONO","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:40:50"},{"id":"d920d43e-7a3e-4894-bfeb-055d3a6a4fee","nis":"14283","name":"REVALISYA ZASKIA ELFATTAHILLAH","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:18:41"},{"id":"dc6c4c1a-87a1-4714-9efb-2ac7bb7e3e30","nis":"14114","name":"KHADEK PRIESSHYA PRIHADHY","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:10:51"},{"id":"e02944fa-5e5e-45ab-a2d6-eab1e7787a54","nis":"14155","name":"MELANI SHELLA DWI NOVIANSYAH","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:11:33"},{"id":"e69e54ad-aeba-4867-969c-b36dc339db91","nis":"13960","name":"AQUINTA VOCIANO MAHENDRATA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:25:27"},{"id":"ebd72dd9-7218-43f2-ab6b-1e1b6a9b36b8","nis":"14285","name":"REYHAN FIRMANSYAH","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:19:11"},{"id":"ef5f6400-a1b1-436b-a60c-905e36942e67","nis":"14352","name":"ZEGA AIDIL PRASETYA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:51:49"},{"id":"f13d952c-0fcc-44f1-9b62-77f18648354a","nis":"14092","name":"IMAMA IONAZIVA","class_id":"119c2d24-ee38-4a29-a661-29b80116f7e1","created_at":"2026-02-21 07:34:15"},{"id":"f6cd2da0-cbf8-4e88-bd80-a73bbe39b6d1","nis":"13976","name":"AYATUL HIKMAH QURROTA AYYUN","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-19 23:56:52"},{"id":"fbe0f158-2dd4-4338-b273-c87876c5c173","nis":"14106","name":"KADEK PANJI NARENDRA NUGRAHA","class_id":"5caf7778-4491-4a08-b0b3-04ee4f3e9d31","created_at":"2026-02-20 00:09:59"}]
+[
+  {
+    "id": "04b001f4-b8bd-41e6-9005-66bb5ceed497",
+    "nis": "14012",
+    "name": "DANENDRA DZIKRI ERGIE PUTRA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:30:01"
+  },
+  {
+    "id": "099dc495-16df-46e0-9034-576b8966f31d",
+    "nis": "13949",
+    "name": "AMRETA ISTIGHFARI SYAMSUDDIN",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:23:34"
+  },
+  {
+    "id": "0adc7cc3-dad6-49d1-be3d-016c8df806d9",
+    "nis": "14167",
+    "name": "MOHAMMAD DAVIN RAFI ILHAMI",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:13:00"
+  },
+  {
+    "id": "0b529166-9512-4690-bdb5-6a61f0f3daab",
+    "nis": "14349",
+    "name": "ZAKIA SAFA AURELIA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:20:51"
+  },
+  {
+    "id": "0ec7233b-463a-41a5-8b68-5bdeecff4a6e",
+    "nis": "14195",
+    "name": "NABILA ARDIS KINASIH",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:40:09"
+  },
+  {
+    "id": "10ed65a6-d6bb-42d6-bfe8-19bf742e388a",
+    "nis": "14037",
+    "name": "ERINA OCTAVIA PUTRI",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:31:12"
+  },
+  {
+    "id": "13a09242-96b0-467a-b32d-d8fe8a5294f0",
+    "nis": "14128",
+    "name": "LINDY AMIRA ALZAAHIRAH",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:35:26"
+  },
+  {
+    "id": "158d8a9f-8f36-48c8-88ff-83d8972f15eb",
+    "nis": "14102",
+    "name": "JOANSA BINTANG FITRIANTO",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:34:44"
+  },
+  {
+    "id": "15fbce73-141f-4453-a4f9-3f62ee61d90e",
+    "nis": "13990",
+    "name": "BENZAIR XAVIER ANDRIAN",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:27:50"
+  },
+  {
+    "id": "16f6d368-0f70-45ea-9814-57f2c6b29bce",
+    "nis": "14324",
+    "name": "SYLVI HARLISTA RAHMAH",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:48:47"
+  },
+  {
+    "id": "184cccff-9bcb-45d5-b7d1-cb1660b290c5",
+    "nis": "14076",
+    "name": "GREGORIUS CHERILBRIAN ARISSA PUTRA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:07:40"
+  },
+  {
+    "id": "19bfdd3b-a206-4101-acc7-0decd7f5e1bf",
+    "nis": "14339",
+    "name": "WILDAN SATRIA AVARA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:51:05"
+  },
+  {
+    "id": "2013957f-36bd-4185-b36c-3d5c7c4984f4",
+    "nis": "14198",
+    "name": "NADHIF MAULANA AHMAD RIZAQI",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:15:14"
+  },
+  {
+    "id": "22b67fe8-b017-4193-a2f9-e9a4ed28355b",
+    "nis": "14003",
+    "name": "CAROLINE NATALIA PUTRI",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:00:30"
+  },
+  {
+    "id": "2ee9b558-1a67-4448-a79d-d99f321bcdd4",
+    "nis": "13931",
+    "name": "AISHA KAYLA JASMINE",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-11 07:26:56"
+  },
+  {
+    "id": "32408f9a-9c11-47da-9218-9db4aebc414c",
+    "nis": "14335",
+    "name": "VIOLLA MARISCHA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:50:32"
+  },
+  {
+    "id": "38c87c11-54bf-45a3-9ca7-00adae6a1231",
+    "nis": "14029",
+    "name": "DIVA NAIRA MAHARANI",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:04:01"
+  },
+  {
+    "id": "39247b83-9f17-4f7f-82c9-55e075c1fc23",
+    "nis": "13968",
+    "name": "ARYA PRAMUDYA CHANDRA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:26:59"
+  },
+  {
+    "id": "3a76f468-b66b-40de-bdd4-03a0407e087e",
+    "nis": "14043",
+    "name": "FACHRIEL FURQON PUTRA BUDI",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:05:17"
+  },
+  {
+    "id": "3c790ff7-a30a-419c-a88d-8b30d93709a8",
+    "nis": "14046",
+    "name": "FAITH AALIYAH SANDY",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:32:39"
+  },
+  {
+    "id": "4105a570-b581-40b8-94ad-30e4e18f7b23",
+    "nis": "13977",
+    "name": "AYRA AYU PUTRI PAMBAYUN",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-19 23:57:29"
+  },
+  {
+    "id": "4106af10-2417-4a9d-8bde-16e6b6e64c50",
+    "nis": "14281",
+    "name": "REGINA ZAKIA KAMILA WANSAN",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:47:03"
+  },
+  {
+    "id": "49d6ad61-abd7-4063-9801-3580f98b012a",
+    "nis": "14296",
+    "name": "RIZCO EMERALDY IRWAN SAPUTRA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:47:55"
+  },
+  {
+    "id": "4c9aff47-2b59-439b-8ddd-07cd07765749",
+    "nis": "14038",
+    "name": "ERLANGGA DHARMA YUDHA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:04:35"
+  },
+  {
+    "id": "4f4e445f-3618-4624-b1ed-aada4b751980",
+    "nis": "14039",
+    "name": "EVAN ADIYASA BUDIANTO",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:31:53"
+  },
+  {
+    "id": "54400241-0fd7-4d38-8406-891a31ead600",
+    "nis": "14023",
+    "name": "DEWA GEDE ANDIKA PRATAMA PUTRA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:02:40"
+  },
+  {
+    "id": "5935f384-b5aa-4340-b3fe-aab62817dc20",
+    "nis": "14311",
+    "name": "SEPTYASSA DWI RAMADHANI",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:19:41"
+  },
+  {
+    "id": "5fb6ee18-b261-4351-9ce9-a01e167feca3",
+    "nis": "14067",
+    "name": "GABRIEL ROSARI PUTRANARENDRA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:06:45"
+  },
+  {
+    "id": "6b435bd3-c230-4110-b79c-6970d714fe26",
+    "nis": "14064",
+    "name": "FRANCISCA DWI PUTRI HAPSARI",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:05:53"
+  },
+  {
+    "id": "6e55daac-4e63-4b08-8fea-5972c5a2ac22",
+    "nis": "14019",
+    "name": "DEREZKY PEDRO SAPULETE",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:01:24"
+  },
+  {
+    "id": "6eed2877-42c9-4ca9-94c8-cf383132fda1",
+    "nis": "14234",
+    "name": "NYOMAN EMILY ORCHID WIBAWA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:17:31"
+  },
+  {
+    "id": "6ff9df30-0f03-46cf-a117-593920cd8506",
+    "nis": "14202",
+    "name": "NAJWA MAULIDA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:15:50"
+  },
+  {
+    "id": "71af52b3-86d0-4d0e-92c8-a41d0612c683",
+    "nis": "14263",
+    "name": "RAHMA OCTALISA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:44:39"
+  },
+  {
+    "id": "71b1b99b-80a2-43be-b214-a1118fb850df",
+    "nis": "14022",
+    "name": "DEWA ABIMANYU",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:02:05"
+  },
+  {
+    "id": "743c46c2-d370-484c-9e17-1edea4c3e1ef",
+    "nis": "14088",
+    "name": "I NYOMAN ARTHA DHARMAYASA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:08:15"
+  },
+  {
+    "id": "744affb9-eeab-4e6a-8a58-cb5714aa2193",
+    "nis": "14328",
+    "name": "TISYA AFLI AMANDA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:20:17"
+  },
+  {
+    "id": "761d8d85-9435-49bd-8c27-62f5d269e7dc",
+    "nis": "13993",
+    "name": "BIEMA ZACTY WIBI ANDRA WISNU",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-19 23:59:55"
+  },
+  {
+    "id": "770413ff-7bff-4672-b3bc-3a2b0ca9e0e7",
+    "nis": "14139",
+    "name": "MUKHAMMAD WIFAK NAZWAN MAULANA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:14:20"
+  },
+  {
+    "id": "8013d73d-c23a-4818-9c69-b73690ca9a79",
+    "nis": "13983",
+    "name": "AZZAHRA ANASTASYA FITRIANI",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-19 23:58:39"
+  },
+  {
+    "id": "86b2febb-30fd-43b0-ad10-a3cfb942603a",
+    "nis": "13963",
+    "name": "ARFA DWI OKTA PRADANA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:26:16"
+  },
+  {
+    "id": "898491d5-83c9-42e4-952f-762cf44c30eb",
+    "nis": "14089",
+    "name": "I PUTU EGA RADIARTANA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:08:51"
+  },
+  {
+    "id": "8b7aebc7-7dda-41ce-ba27-4fc2b5d6e052",
+    "nis": "13915",
+    "name": "ABDULLAH",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:21:54"
+  },
+  {
+    "id": "99d841f7-6505-46d9-9a28-e6212647d827",
+    "nis": "14011",
+    "name": "DANADYAKSA DZAKY NUR FAHIM",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:29:23"
+  },
+  {
+    "id": "9c29ab4f-4e35-47b2-a985-9380e71cd91f",
+    "nis": "14024",
+    "name": "DEWI ABINAYA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:03:20"
+  },
+  {
+    "id": "9c44003b-96ca-44e5-ac46-fe8af82ed597",
+    "nis": "14275",
+    "name": "RAPHAEL BINTANG ADI NUGROHO",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:18:09"
+  },
+  {
+    "id": "9c6dfc58-8137-4ede-ab77-2f6c03e9cd0d",
+    "nis": "14222",
+    "name": "NI WAYAN SUKANIA WANDYA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:17:05"
+  },
+  {
+    "id": "9e080bbc-49a5-4de3-a9b3-e281172ab8ce",
+    "nis": "14065",
+    "name": "FRAYA EMILLY KUSUCAHYO",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:33:16"
+  },
+  {
+    "id": "9f84ed0b-4e6c-4989-9e91-d7380c38a96e",
+    "nis": "14276",
+    "name": "RASIKH ARIEFRAKHMAN ABIEZA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:46:07"
+  },
+  {
+    "id": "a04aef0c-122f-4c4d-b994-40267dc84cc9",
+    "nis": "14215",
+    "name": "NAZMA ATHIQA FUADAH",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:41:29"
+  },
+  {
+    "id": "a2274dd3-08fc-4b2d-ac5f-051de2e8188a",
+    "nis": "14254",
+    "name": "RAFA KAYSAN PRAWIRA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:43:26"
+  },
+  {
+    "id": "af02b3a1-4e1d-4cd6-96ed-17cd7dfcf2a3",
+    "nis": "14334",
+    "name": "VIOLETA ALYA RIZKA EFFENDI",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:49:24"
+  },
+  {
+    "id": "b13872c4-662d-4d12-99db-84d52454097e",
+    "nis": "14183",
+    "name": "M. GILANG CAHAYA RABBANI",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:36:04"
+  },
+  {
+    "id": "b9d998c8-9a17-469f-b9ef-89ee2578cbbd",
+    "nis": "13997",
+    "name": "BINTANG RAMADHAN WIBISONO",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:28:32"
+  },
+  {
+    "id": "ba035660-c0ae-452b-8f61-bf0b4b30a818",
+    "nis": "14213",
+    "name": "NAYLA ATHA SYIFA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:16:17"
+  },
+  {
+    "id": "bd6d193d-90d6-4e6a-9720-737402329060",
+    "nis": "14163",
+    "name": "MOCHAMMAD SCAESAR BAGASKARA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:12:07"
+  },
+  {
+    "id": "bd7174d1-887d-4850-8ced-7875bc01b6cc",
+    "nis": "13954",
+    "name": "ANNISA HANIFATUT DINILAH",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-19 23:53:48"
+  },
+  {
+    "id": "be81628e-28ec-4ece-ad99-73d6626cd3e0",
+    "nis": "14240",
+    "name": "PRINCESS AMALIAH BESTGIFT",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:42:05"
+  },
+  {
+    "id": "beee475d-1456-49c1-9d91-3984afae7de8",
+    "nis": "14170",
+    "name": "MUHAMMAD AKBAR FAROZIE",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:36:48"
+  },
+  {
+    "id": "bf1348eb-351d-4322-9602-bc0ec46f9399",
+    "nis": "14252",
+    "name": "RAFA ATHAYA AKHMAD",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:42:54"
+  },
+  {
+    "id": "c0c2f88a-5d19-437a-83df-de358c6399ee",
+    "nis": "14274",
+    "name": "RANSI IKRAM ACHMAD",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:45:15"
+  },
+  {
+    "id": "c90a292a-8d93-4a04-a05b-028844fa73f6",
+    "nis": "13956",
+    "name": "AQILA AMBARIN ZAHRA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:24:10"
+  },
+  {
+    "id": "ca63db6f-ff01-4450-952f-7307e0fb93af",
+    "nis": "13917",
+    "name": "ACINTYA BAITAH DIAN LAGHAWA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:22:43"
+  },
+  {
+    "id": "d430d4a0-89f2-4800-9bdf-26e1da49db27",
+    "nis": "14100",
+    "name": "JIBRAN ABIMANYU",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:09:21"
+  },
+  {
+    "id": "d4329d07-29d1-4c3a-aa73-ab3da97814e6",
+    "nis": "14210",
+    "name": "NAURA NATHANIA MOYNA PUTRI HARTONO",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:40:50"
+  },
+  {
+    "id": "d920d43e-7a3e-4894-bfeb-055d3a6a4fee",
+    "nis": "14283",
+    "name": "REVALISYA ZASKIA ELFATTAHILLAH",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:18:41"
+  },
+  {
+    "id": "dc6c4c1a-87a1-4714-9efb-2ac7bb7e3e30",
+    "nis": "14114",
+    "name": "KHADEK PRIESSHYA PRIHADHY",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:10:51"
+  },
+  {
+    "id": "e02944fa-5e5e-45ab-a2d6-eab1e7787a54",
+    "nis": "14155",
+    "name": "MELANI SHELLA DWI NOVIANSYAH",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:11:33"
+  },
+  {
+    "id": "e69e54ad-aeba-4867-969c-b36dc339db91",
+    "nis": "13960",
+    "name": "AQUINTA VOCIANO MAHENDRATA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:25:27"
+  },
+  {
+    "id": "ebd72dd9-7218-43f2-ab6b-1e1b6a9b36b8",
+    "nis": "14285",
+    "name": "REYHAN FIRMANSYAH",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:19:11"
+  },
+  {
+    "id": "ef5f6400-a1b1-436b-a60c-905e36942e67",
+    "nis": "14352",
+    "name": "ZEGA AIDIL PRASETYA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:51:49"
+  },
+  {
+    "id": "f13d952c-0fcc-44f1-9b62-77f18648354a",
+    "nis": "14092",
+    "name": "IMAMA IONAZIVA",
+    "class_id": "119c2d24-ee38-4a29-a661-29b80116f7e1",
+    "created_at": "2026-02-21 07:34:15"
+  },
+  {
+    "id": "f6cd2da0-cbf8-4e88-bd80-a73bbe39b6d1",
+    "nis": "13976",
+    "name": "AYATUL HIKMAH QURROTA AYYUN",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-19 23:56:52"
+  },
+  {
+    "id": "fbe0f158-2dd4-4338-b273-c87876c5c173",
+    "nis": "14106",
+    "name": "KADEK PANJI NARENDRA NUGRAHA",
+    "class_id": "5caf7778-4491-4a08-b0b3-04ee4f3e9d31",
+    "created_at": "2026-02-20 00:09:59"
+  }
+]
